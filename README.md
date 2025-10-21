@@ -101,7 +101,5 @@ The notebook plots training vs validation loss to monitor overfitting and conver
 ------------------------------------------------------------
 🧑‍💻 Author
 ------------------------------------------------------------
-Balu ESB
-Machine Learning & Software Engineer
-GitHub: https://github.com/
-LinkedIn: https://linkedin.com/
+Balaji Shiva  
+GitHub: https://github.com/balajishiva2001
