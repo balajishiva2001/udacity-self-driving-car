@@ -29,13 +29,14 @@ This notebook trains a model to predict steering angles from road images using a
 ------------------------------------------------------------
 📁 Project Structure
 ------------------------------------------------------------
+``
 carSimulation/
 ├── driving_log.csv           # Driving data (image paths + steering angles)
 ├── IMG/                      # Folder containing driving images
 ├── carSimulation.ipynb       # Main notebook
 ├── model7.h5                 # Saved trained model
 └── README.txt                # Project documentation
-
+``
 ------------------------------------------------------------
 🧠 Model Architecture
 ------------------------------------------------------------
